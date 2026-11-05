@@ -1,0 +1,4 @@
+pywin32
+requests
+anthropic
+win11toast

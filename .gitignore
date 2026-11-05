@@ -1,0 +1,15 @@
+# Khóa API, mật khẩu ứng dụng Gmail
+config.json*
+.env*
+
+# Dữ liệu email: địa chỉ, message ID, nội dung log, tệp đính kèm
+state.json*
+log.txt*
+*.log
+tai_lieu/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
